@@ -1,3 +1,5 @@
+/* Import Google Fonts */
+
 .skranji-regular {
     font-family: "Skranji", system-ui;
     font-weight: 400;
@@ -118,22 +120,29 @@
     font-style: italic;
 }
 
-
+/* HTML elements */
 
 body {
     font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-size: 14px;
+    background: #FFE8D1;
 }
 
-h1 {
+.title {
     font-family: "Skranji", sans-serif;
-    font-weight: 700;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.heading {
+    font-family: "Skranji", sans-serif;
+    font-weight: 500;
     font-size: 26px;
 }
 
-h2 {
+.heading.second {
     font-family: "Skranji", sans-serif;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 20px;
 }
