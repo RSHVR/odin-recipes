@@ -151,3 +151,7 @@ dl {
     font-weight: 400;
     font-size: 16px;
 }
+
+dt {
+    font-weight: 600;
+}
